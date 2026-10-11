@@ -1,0 +1,21 @@
+{
+  "name": "sadeem-selfbot-backend",
+  "version": "1.0.0",
+  "description": "Backend API Server for SADEEM Ultimate Selfbot Suite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "discord",
+    "selfbot",
+    "sadeem-tools"
+  ],
+  "author": "Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js-selfbot-v13": "^2.15.2",
+    "express": "^4.19.2"
+  }
+}
