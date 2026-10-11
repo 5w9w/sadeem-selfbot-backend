@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "discord.js-selfbot-v13": "^2.15.2",
+    "discord.js-selfbot-v13": "latest",
     "express": "^4.19.2"
   }
 }
